@@ -10,8 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aliexpress-api": "^1.1.3",
+    "aliexpress-product-scraper": "^2.0.2",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.3",
     "node-telegram-bot-api": "^0.65.1",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "scraperapi-sdk": "^2.0.1"
   }
 }
